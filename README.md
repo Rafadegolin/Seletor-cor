@@ -5,7 +5,7 @@
 > Este repositório representa a primeira versão desse app.
 
 # Screenshot
-<img src="https://github.com/Rafadegolin/Selecinador-cor/blob/main/screenshot.png?raw=true">
+<img src="https://github.com/Rafadegolin/Selecionador-cor/blob/main/screenshot.png">
 
 ## History/Histórico
 Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Selecinador-cor/releases) pra acompanhar as alterações feitas no projeto.
