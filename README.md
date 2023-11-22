@@ -14,4 +14,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Selecinador-cor/r
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para experimentar:
-[Encurtador URL](https://rafadegolin.github.io/Selecionador-cor/)
+[Selecionador de cor](https://rafadegolin.github.io/Selecionador-cor/)
