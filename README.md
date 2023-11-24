@@ -5,13 +5,13 @@
 > Este repositório representa a primeira versão desse app.
 
 # Screenshot
-<img src="https://github.com/Rafadegolin/Selecionador-cor/blob/main/screenshot.png">
+<img src="https://github.com/Rafadegolin/Seletor-cor/blob/main/screenshot.png">
 
 ## History/Histórico
-Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Selecinador-cor/releases) pra acompanhar as alterações feitas no projeto.
+Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Seletor-cor/releases) pra acompanhar as alterações feitas no projeto.
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para experimentar:
-[Seletor de cor](https://rafadegolin.github.io/Selecionador-cor/)
+[Seletor de cor](https://rafadegolin.github.io/Seletor-cor/)
