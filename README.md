@@ -1,4 +1,4 @@
-# Selecionador de cor / Color picker
+# Seletor de cor / Color picker
 
 > Projeto de um aplicativo em que você faz o upload de uma imagem e consegue selecionar um ponto da imagem para extrair a cor em RGB e HEX.
 >
